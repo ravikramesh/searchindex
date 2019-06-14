@@ -1,0 +1,2 @@
+# searchindex
+Document search index
